@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="54.200825mm"
+   height="54.20134mm"
+   viewBox="0 0 54.200825 54.20134"
+   version="1.1"
+   id="svg8">
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-42.072293,-1.591188)"
+     id="g988">
+    <path
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.98452181;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+       d="M 69.172963,1.591188 A 27.100596,27.100596 0 0 0 42.072293,28.691861 27.100596,27.100596 0 0 0 69.172963,55.79253 27.100596,27.100596 0 0 0 96.273119,28.691861 27.100596,27.100596 0 0 0 69.172963,1.591188 Z m 0,8.496641 A 18.603683,18.603683 0 0 1 87.776478,28.691861 18.603683,18.603683 0 0 1 69.172963,47.295376 18.603683,18.603683 0 0 1 50.568932,28.691861 18.603683,18.603683 0 0 1 69.172963,10.087829 Z"
+       id="path826-3" />
+    <g
+       id="g982"
+       transform="translate(41.010094,-25.310037)">
+      <path
+         id="rect946"
+         d="m 22.427332,47.510211 h 13.566311 v -3.507913 l 7.90005,5.980156 -7.88445,6.171756 -0.049,-3.841999 H 22.427332 Z"
+         style="opacity:1;fill:#4b8b47;fill-opacity:1;stroke:none;stroke-width:0.64704996;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill" />
+      <path
+         id="rect946-6"
+         d="M 33.897893,55.357496 H 20.331575 v -3.507913 l -7.900045,5.980156 7.884451,6.171756 0.049,-3.841999 h 13.532912 z"
+         style="opacity:1;fill:#4b8b47;fill-opacity:1;stroke:none;stroke-width:0.64705002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill" />
+    </g>
+  </g>
+</svg>
