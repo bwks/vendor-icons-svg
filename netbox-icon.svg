@@ -5,36 +5,11 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg8"
    version="1.1"
-   viewBox="0 0 131.1306 40.641716"
+   viewBox="0 0 39.905643 40.641716"
    height="40.641716mm"
-   width="131.1306mm"
-   sodipodi:docname="netbox.svg"
-   inkscape:version="0.92.2 5c3e80d, 2017-08-06">
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1314"
-     inkscape:window-height="762"
-     id="namedview23"
-     showgrid="false"
-     inkscape:snap-text-baseline="true"
-     inkscape:zoom="1.0863942"
-     inkscape:cx="180.47339"
-     inkscape:cy="43.977791"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg8" />
+   width="39.905643mm">
   <defs
      id="defs2" />
   <metadata
@@ -45,7 +20,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -161,38 +136,4 @@
       </g>
     </g>
   </g>
-  <text
-     xml:space="preserve"
-     style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-     x="37.541924"
-     y="21.009701"
-     id="text3720"><tspan
-       sodipodi:role="line"
-       id="tspan3718"
-       x="37.541924"
-       y="30.37347"
-       style="stroke-width:0.26458332" /></text>
-  <flowRoot
-     xml:space="preserve"
-     id="flowRoot3741"
-     style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-     transform="translate(-8.2661124,0.34442176)"><flowRegion
-       id="flowRegion3743"><rect
-         id="rect3745"
-         width="95.02774"
-         height="106.74349"
-         x="239.52197"
-         y="88.51899" /></flowRegion><flowPara
-       id="flowPara3747" /></flowRoot>  <text
-     xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.37067032px;line-height:1.25;font-family:'Bodoni 72 Smallcaps';-inkscape-font-specification:'Bodoni 72 Smallcaps, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#3282f7;fill-opacity:1;stroke:none;stroke-width:0.75926816"
-     x="52.885365"
-     y="30.934448"
-     id="text3752"
-     transform="scale(1.0057264,0.99430619)"><tspan
-       sodipodi:role="line"
-       id="tspan3750"
-       x="52.885365"
-       y="30.934448"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.37067032px;font-family:Abel;-inkscape-font-specification:'Abel, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#3282f7;fill-opacity:1;stroke-width:0.75926816">netbox</tspan></text>
 </svg>
